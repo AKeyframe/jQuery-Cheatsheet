@@ -1,9 +1,3 @@
-# Libraries and Frameworks
-- Libraries, such as jQuery and lodash are focused on providing a set of utility or helper methods to make programming more efficient. 
-
-- Frameworks are more comprehensive, providing capabilities not found in utility JS libraries.
-
-- Frameworks often use libraries to implement their features. But, you'll never find a library using a framework. For an analogy, you can think of libraries as the tools and frameworks as the construction crew.
 
 # jQuery [[RM]](https://api.jquery.com/)
 
